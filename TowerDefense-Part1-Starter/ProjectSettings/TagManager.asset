@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameOver
+  - GameWon
+  - cross
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cross
+    uniqueID: 1357991841
+    locked: 0
+  - name: ground
+    uniqueID: 3178556551
+    locked: 0
+  - name: building
+    uniqueID: 1206738407
+    locked: 0
+  - name: tree
+    uniqueID: 3574259479
+    locked: 0
+  - name: edge
+    uniqueID: 1465513773
+    locked: 0
+  - name: water
+    uniqueID: 2667901591
+    locked: 0
+  - name: cursor
+    uniqueID: 2536307913
+    locked: 0
